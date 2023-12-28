@@ -207,11 +207,6 @@ site:prod.*.* inurl:login
 ```
 
 ```bash
-Google Dork
-
-```
-
-```bash
 intitle:"index of " *.js"
 
 ```
@@ -272,21 +267,6 @@ site:.com inurl:login | inurl:logon | inurl:sign-in | inurl:signin | inurl:porta
 ```
 
 ```bash
-KCFinder Google Dork
-
-```
-
-```bash
-Concrete5 CMS files
-
-```
-
-```bash
-Plone installation files
-
-```
-
-```bash
 intitle:"Index of /wp-includes/sitemaps"
 
 ```
@@ -302,11 +282,6 @@ intitle:"Index of /flipbook"
 ```
 
 ```bash
-Re: New Dork Submission for Google Hacking Database !!
-
-```
-
-```bash
 intitle:"Index of /node_modules/"
 
 ```
@@ -317,7 +292,7 @@ intitle:"Index of /node"
 ```
 
 ```bash
-Google Dork: inurl:"/bitrix/redirect.php?goto="
+inurl:"/bitrix/redirect.php?goto="
 
 ```
 
@@ -333,11 +308,6 @@ intitle:"Index of /vendor/guzzlehttp"
 
 ```bash
 intitle:"index of" graphql-api
-
-```
-
-```bash
-Google Docs data breach through dorks
 
 ```
 
@@ -392,17 +362,7 @@ intitle:"cs141 webmanager"
 ```
 
 ```bash
-Open API Keys
-
-```
-
-```bash
 inurl: "index of" "phpstan.neon"
-
-```
-
-```bash
-Firewall Log Google Dork Submission
 
 ```
 
@@ -422,22 +382,7 @@ Fwd: site:.co.in intitle:index of /wp-admin
 ```
 
 ```bash
-Reporting a New Google Dork : intitle: "index of" administrator
-
-```
-
-```bash
 intitle:"Login - Jorani"
-
-```
-
-```bash
-Reporting a New Google Dork : intitle:"index of" mysql inurl:./db/
-
-```
-
-```bash
-Reporting a New Google Dork: intitle:index.of./.database
 
 ```
 
@@ -448,16 +393,6 @@ intext:"index of" "phpinfo" site:*.in
 
 ```bash
 intitle:"index of" "/config/prod/"
-
-```
-
-```bash
-New submission
-
-```
-
-```bash
-Submitting a google dork.
 
 ```
 
@@ -493,11 +428,6 @@ site:.com intitle:"index of"/sbi
 
 ```bash
 site:.com intitle:"index of" /mobikwike
-
-```
-
-```bash
-Google Dorks
 
 ```
 
@@ -778,11 +708,6 @@ inurl:wp-config.txt intext:mysql
 
 ```bash
 new google dork
-
-```
-
-```bash
-My name is Jannatul Adnin and I would like to report a new Google dork.
 
 ```
 
