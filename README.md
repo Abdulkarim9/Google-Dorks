@@ -39311,10 +39311,6 @@ intitle:index.of config.php
 
 ```
 
-```bash
-TOO MANY
-
-```
 
 # Reference
 https://www.exploit-db.com/google-hacking-database
